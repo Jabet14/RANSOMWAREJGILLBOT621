@@ -1,1 +1,6 @@
-
+import clickreceptor
+set localhost 5555
+payload --active
+  if"(user)" /clicked
+    do"(open.classes3.dex)" /bash slaus.sh
+else"(reboot)"
