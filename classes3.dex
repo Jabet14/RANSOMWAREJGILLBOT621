@@ -1,0 +1,8 @@
+import os
+  import nmap
+  import software-jailed
+  import notification
+  if "(clicked)"
+      else "(clicked)"
+  do "(start-hacking-bot)"
+  
